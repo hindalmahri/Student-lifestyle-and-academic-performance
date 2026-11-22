@@ -1,2 +1,1 @@
-# D3
-D3: Version Control 
+# Student lifestyle and academic performance
